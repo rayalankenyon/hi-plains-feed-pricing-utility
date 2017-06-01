@@ -10,7 +10,7 @@ Much of this project is under NDA, but here's what I can share with you:
 * Reports generated as HTML or PDF
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/rayalankenyon/seasonal-pastels/master/screenshots/1.png "File Menu")
-![alt text](https://raw.githubusercontent.com/rayalankenyon/seasonal-pastels/master/screenshots/2.png "Edit Menu")
-![alt text](https://raw.githubusercontent.com/rayalankenyon/seasonal-pastels/master/screenshots/3.png "File Type 1")
-![alt text](https://raw.githubusercontent.com/rayalankenyon/seasonal-pastels/master/screenshots/4.png "File Type 2")
+![File Menu](https://raw.githubusercontent.com/rayalankenyon/rayalankenyon/hi-plains-feed-pricing-utility/master/screenshots/1.png "File Menu")
+![Edit Menu](https://raw.githubusercontent.com/rayalankenyon/rayalankenyon/hi-plains-feed-pricing-utility/master/screenshots/2.png "Edit Menu")
+![File Type 1](https://raw.githubusercontent.com/rayalankenyon/rayalankenyon/hi-plains-feed-pricing-utility/master/screenshots/3.png "File Type 1")
+![File Type 2](https://raw.githubusercontent.com/rayalankenyon/rayalankenyon/hi-plains-feed-pricing-utility/master/screenshots/4.png "File Type 2")
