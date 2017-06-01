@@ -1,6 +1,6 @@
 # Hi Plains Feed Pricing Utility
 Much of this project is under NDA, but here's what I can share with you:
-### Info
+
 * Mostly C++, some pure C, and some HTML 5
 * ~3k lines of code
 * Auto-complete
